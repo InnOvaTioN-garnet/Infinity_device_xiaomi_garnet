@@ -926,4 +926,10 @@
 
     <!-- See AmbientSensor.AmbientColorTemperatureSensor. The ambient color temperature sensor name. -->
     <string name="config_displayWhiteBalanceColorTemperatureSensorName">com.google.sensor.color</string>
+
+    <!-- Default files to pin via Pinner Service -->
+    <string-array translatable="false" name="config_defaultPinnerServiceFiles">
+        <item>"/system_ext/priv-app/DaxUI/DaxUI.apk"</item>
+        <item>"/system_ext/priv-app/daxService/daxService.apk"</item>
+    </string-array>
 </resources>
