@@ -1671,7 +1671,7 @@ vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
 vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 
-# Graphics (Adreno)
+# Graphics (Adreno) from garnet missi-user 15 AQ3A.240912.001 OS2.0.4.0.VNRMIXM release-keys
 vendor/gpu/kbc/sequence_manifest.bin
 vendor/gpu/kbc/unified_kbcs_32.bin
 vendor/gpu/kbc/unified_kbcs_64.bin
@@ -1713,7 +1713,7 @@ vendor/lib64/libllvm-glnext.so
 vendor/lib64/libllvm-qcom.so
 vendor/lib64/libllvm-qgl.so
 
-# Graphics (Adreno firmware)
+# Graphics (Adreno firmware) from garnet missi-user 15 AQ3A.240912.001 OS2.0.4.0.VNRMIXM release-keys
 vendor/firmware/a710_sqe.fw
 vendor/firmware/a710_zap.b00
 vendor/firmware/a710_zap.b01
@@ -1723,7 +1723,7 @@ vendor/firmware/a710_zap.mbn
 vendor/firmware/a710_zap.mdt
 vendor/firmware/gmu_gen70000.bin
 
-# Graphics (Vulkan)
+# Graphics (Vulkan) from garnet missi-user 15 AQ3A.240912.001 OS2.0.4.0.VNRMIXM release-keys
 vendor/lib/hw/vulkan.adreno.so
 vendor/lib64/hw/vulkan.adreno.so
 
